@@ -4,12 +4,12 @@ import{ Produto } from '.';
 @Injectable()
 export class ProdutoService {
 
-/*getAll() {
+getAll() {
     return
 }
 
 update(nome:string) {}
 delete(nome:string) {}
 create() {}
-*/
+
 }
