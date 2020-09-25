@@ -1,6 +1,6 @@
 # TesteCO
 
-## Atenção o seguinte repósitório tem como objetivo único apresentar o teste desenvolvido para concorrer a vaga de estǵio.
+## Atenção o seguinte repósitório tem como objetivo único apresentar o teste desenvolvido para concorrer a vaga de estágio.
 
 Código principal feito utilizando o Angular.
 
@@ -21,7 +21,7 @@ Após ter criado o serve do projeto o execute em um navegador (recomendado Firef
 
 Também existe o teste na porta localhost:4200, mas ela só irá confirmar se o seu angular funciona e se o projeto está com o angular "embutido nele".
 
-###Importante: Dependendo do navegador escolhido será necessário clicar na opção de debug para que ele execute o projeto corretamente e depois na opção ProductComponent.
+### Importante: Dependendo do navegador escolhido será necessário clicar na opção de debug para que ele execute o projeto corretamente e depois na opção ProductComponent.
 
 Também importante ressaltar que se houver a opção de execução diretamente no navegador isso gera melhor desempenho -- de acordo com meus testes em compiladores online.
 
